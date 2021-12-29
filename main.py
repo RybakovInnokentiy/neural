@@ -22,3 +22,4 @@ n = Neuron(weights, bias);
 
 inputs = np.array([10, 12]);
 print(n.feedforwar(inputs));
+print("---------")
