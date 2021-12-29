@@ -18,7 +18,7 @@ class Neuron:
 
 class NeuralNetwork:
 
-    def __int__(self):
+    def __init__(self):
         weights = np.array([2, 3])
         bias = 3
 
